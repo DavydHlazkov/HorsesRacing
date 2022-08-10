@@ -1,0 +1,40 @@
+.track-container{
+  display: inline-flex;
+  padding: 10px;
+  width: 100vw;
+}
+
+.lane{
+  height: 60px;
+  border-radius: 10px;
+  border: 1px solid rgb(103, 103, 103);
+  background-color: rgb(222, 222, 222);
+  text-align: center;
+  padding: 10px;
+  width: 90vw;
+  margin-top: 20px;
+}
+
+.horse-img{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 5vw;
+}
+
+.winner{
+  height: 60px;
+  border-radius: 30px;
+  background-color: rgb(184, 255, 184);
+  border: 1px solid rgb(44, 192, 255);
+  text-align: center;
+  padding: 10px;
+  width: 90vw;
+  margin-top: 20px;
+}
+
+#name-win{
+  font-size: 30px;
+  font-weight: 500;
+  color: rgb(44, 192, 255);
+}

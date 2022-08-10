@@ -1,0 +1,20 @@
+.app{
+  text-align: center;
+  width: 100vw;
+  background-color: #fff;
+  margin-top: 60px;
+}
+
+.app p{
+  font-size: 14px;
+}
+
+.btn{
+    background-color: #fff;
+  border: 1px black solid;
+  padding: 5px 10px;
+  margin-right: 15px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 7px;
+}
